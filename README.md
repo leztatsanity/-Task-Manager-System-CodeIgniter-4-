@@ -65,9 +65,11 @@ Supported types: .jpg, .jpeg, .png, .pdf
 Max size: 2 MB
 
 Files stored in: writable/uploads/
+![Screenshot 2025-06-12 191912](https://github.com/user-attachments/assets/ad87bb49-f5d8-4617-a33d-e596d2d20cb8)
 
-📷 Screenshots (optional)
-Add screenshots of:
+![Screenshot 2025-06-12 191745](https://github.com/user-attachments/assets/eeb7e085-5578-4d83-ae4a-87d3625ba027)
+
+![Screenshot 2025-06-12 191954](https://github.com/user-attachments/assets/d9168021-0dfe-4df5-bb91-b56aa375e24f)
 
 Login Page
 
@@ -77,9 +79,3 @@ Upload Section
 
 API response (JSON in browser)
 
-👤 Author
-Your Name
-GitHub Profile
-
-📄 License
-MIT License (or your preferred license)
